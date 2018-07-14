@@ -1,0 +1,52 @@
+<style>
+		h1 { 
+			color:purple; 
+			font-size:18px; 
+			font-family: Arial, sans-serif;
+		}
+
+		h2 {
+			color:purple; 
+			font-size:16px; 
+		    font-family: Helvetica, sans-serif;
+		}
+
+		h3 {
+			color:purple; 
+			font-size:14px; 
+		    font-family: Arial, sans-serif;
+		}
+
+		h4 {
+			color:purple; 
+			font-size:14px; 
+		    font-family: Helvetica, sans-serif;
+		}
+
+		
+		p { 
+			color:gray; 
+			font-family: "Times New Roman", Times, serif;
+			font-size:14px;
+		}		
+		
+		ul {
+    		list-style-type: none;
+    		margin: 0;
+    		padding: 0;
+   			 overflow: hidden;
+    		background-color: #c62cc9;
+			}
+
+		li a {
+		    display: block;
+		    color: white;
+		    text-align: center;
+		    padding: 14px 16px;
+		    text-decoration: none;
+		}
+
+		li a:hover {
+		    background-color: #4CAF50;
+		}
+	</style>
